@@ -44,7 +44,5 @@
           
           Python
           
-## The Codes regarding this Association Rules with its datasets  Groceries, Book, My_movies are present in this Repository in detail ##
+**The Codes regarding this Association Rules with its datasets  *Groceries, Book, My_movies* are present in this Repository in detail**
 
-
-dataset:groceries,book,my_movies
